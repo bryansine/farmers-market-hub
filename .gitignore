@@ -1,11 +1,8 @@
-venv/
 *.pyc
-*.pyo
 __pycache__/
 db.sqlite3
+venv/
+.venv/
+.env
 media/
-
-node_modules/
-npm-debug.log
-
-*.env
+staticfiles/
