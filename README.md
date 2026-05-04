@@ -24,7 +24,7 @@
 
 ---
 
-## Payment Logic (Daraja API)
+## Payment Logic
 
 The platform implements a "Production-Ready" payment callback architecture:
 1.  **Initiation:** Customer triggers STK Push via `daraja/utils.py`.
@@ -67,12 +67,9 @@ To run this project locally on Ubuntu:
     python manage.py runserver
     ```
 
----
-
 ##  Future Roadmap
-- [ ] **WhatsApp Integration:** Direct order notifications via WhatsApp Business API for farmers without consistent app access.
-- [ ] **Smart Season Integration:** Linking soil health and risk data from the *Smart Season* platform directly to product quality tags.
-- [ ] **Offline Mode:** Service worker implementation for areas with low connectivity in rural Kenya.
+- **WhatsApp Integration:** Direct order notifications via WhatsApp Business API for farmers without consistent app access.
+- **Smart Season Integration:** Linking soil health and risk data from the *Smart Season* platform directly to product quality tags.
+- **Offline Mode:** Service worker implementation for areas with low connectivity in rural Kenya.
 
----
 Developed by [Bryan](https://github.com/bryansine)
