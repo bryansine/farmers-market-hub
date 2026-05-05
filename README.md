@@ -6,7 +6,7 @@
 
 ##  Key Features
 
-*   **Farmer Dashboard:** Real-time inventory management for crops (Maize, Wheat, Legumes).
+*   **Farmer Dashboard:** Real-time inventory management for crops.
 *   **M-Pesa Integration:** Fully functional **STK Push** implementation for secure, mobile-first transactions.
 *   **Automated Order Workflow:** Synchronized status updates between `Cart`, `Orders`, and `Payment` confirmation.
 *   **Localized UI:** Mobile-responsive design optimized for farmers using devices like the Samsung S-series and A-series in field conditions.
